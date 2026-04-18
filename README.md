@@ -3,6 +3,13 @@
 An end-to-end NLP system that reads biomedical research text and automatically extracts **named entities** (drugs, diseases, genes, symptoms, treatments) and **semantic relations** between them, complete with evaluation metrics.
 
 ---
+## Demo
+<img width="1139" height="968" alt="Screenshot 2026-04-18 092901" src="https://github.com/user-attachments/assets/227798fe-1648-4c57-8cf6-0263c7387271" />
+
+
+<img width="877" height="967" alt="image" src="https://github.com/user-attachments/assets/35f213b3-c36b-4e74-8e20-5f596b8bcb73" />
+
+---
 
 ## 📁 Project Structure
 
