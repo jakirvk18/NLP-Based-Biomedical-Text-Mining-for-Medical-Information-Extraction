@@ -30,7 +30,7 @@ biomedical-text-mining/
 │   │       ├── RelationsCard.jsx          # Subject → verb → Object triples
 │   │       └── MetricsCard.jsx            # Precision / Recall / F1 display
 │   ├── package.json
-│   └── tailwind.config.js
+│   └── vite.config.js
 │
 └── README.md
 ```
